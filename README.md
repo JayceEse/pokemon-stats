@@ -1,4 +1,4 @@
-# Pokemon Stats Api
+# Pokemon Stats API
 
 Built Pokemon Stats site using online tutorial to learn how to get specific data from api and display it in react website.
 
