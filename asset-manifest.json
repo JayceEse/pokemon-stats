@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pokemon-stats/static/css/main.629df1e7.css",
+    "main.js": "/pokemon-stats/static/js/main.d1a8280e.js",
+    "index.html": "/pokemon-stats/index.html",
+    "main.629df1e7.css.map": "/pokemon-stats/static/css/main.629df1e7.css.map",
+    "main.d1a8280e.js.map": "/pokemon-stats/static/js/main.d1a8280e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.629df1e7.css",
+    "static/js/main.d1a8280e.js"
+  ]
+}
