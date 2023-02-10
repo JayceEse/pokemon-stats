@@ -4,6 +4,8 @@ Built Pokemon Stats site using online tutorial to learn how to get specific data
 
 - Currently best viewed on Desktop or Laptop.
 
+Live version here: https://jayceese.github.io/pokemon-stats/
+
 ## How to use Pokemon Stats
 
 Type your Pokemon into the search box or choose suggested pokemon in the dropbox and click "Search Pokemon" button. Your pokemon's data will be displayed on screen. 
